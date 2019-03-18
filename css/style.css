@@ -1,0 +1,10 @@
+@import 'header.css';
+@import 'navbar.css';
+
+body {
+  font-family: 'Autour One', cursive;
+}
+
+* {
+  margin: 0;
+}
